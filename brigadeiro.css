@@ -1,0 +1,37 @@
+nav ul {
+    text-align: center;
+    background-color: rgb(61, 43, 31);
+    height: 70px;
+}
+
+li {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    font-family: Arial Black;
+    margin: 0 20px;
+    margin-top: inherit;
+}
+li:hover {
+    color: burlywood;
+    transition: 2s;
+}
+
+div {
+    position: absolute;
+}
+
+img {
+    width: 1333px;
+    margin-top: -16px;
+}
+
+.title {
+    position: fixed;
+    margin-top: 80px;
+    font-size: 50px;
+    margin-left: 500px;
+    text-align: center;
+    color: white;
+}
