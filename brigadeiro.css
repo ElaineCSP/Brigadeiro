@@ -22,16 +22,98 @@ div {
     position: absolute;
 }
 
-img {
+.background-all-page {
     width: 1333px;
     margin-top: -16px;
+    position: absolute;
 }
 
 .title {
-    position: fixed;
+    position: absolute;
     margin-top: 80px;
     font-size: 50px;
     margin-left: 500px;
     text-align: center;
     color: white;
+}
+
+.backgroud-block1 {
+    width: 1333px;   
+    height: 400px;
+    position: absolute;
+    margin-top: 545px;
+}
+
+.title-first-block {
+    color: white;
+    font-size: 40px;
+    margin-left: 145px;
+    margin-top: 685px;
+    position: relative;
+    text-align: center;
+}
+
+.discription {
+    position: inherit;
+    margin-left: 568px;
+    margin-top: -174px;
+    width: 600px;
+    text-align: justify;
+    color: white;
+    font-size: 20px;
+}
+
+.second-block {
+    text-align: center;
+}
+.title-second-block {
+    margin-top: 1040px;
+    font-size: 30px;
+    margin-left: 160px;
+}
+
+.sencond-discription {
+    margin-left: 150px;
+}
+
+.hug-images {
+    display: inline-block;
+    margin-top: 120px;
+    position: initial;
+    margin-left: 169px;
+}
+.three-images {
+    width: 230px;
+    height: 187px;
+}
+
+.backgroud-block3 {
+    width: 1335px;   
+    height: 600px;
+    position: absolute;
+    margin-top: 1493px;
+}
+.title-third-block {
+    margin-top: 1571px;
+    color: gray;
+    font-size: 30px;
+    margin-left: 160px;
+    position: relative;
+}
+
+.third-discription {
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 60px;
+    width: 515px;
+    color: gray;
+    text-align: justify;
+}
+
+.daniela {
+    margin-left: 835px;
+    position: relative;
+    width: 400px;
+    height: 400px;
+    margin-top: -25px;
 }
