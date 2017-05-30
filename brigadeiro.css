@@ -117,3 +117,90 @@ div {
     height: 400px;
     margin-top: -25px;
 }
+
+.hug-images-block4 {
+    display: inline-block;
+    position: initial;
+    /*opacity: 0.8;*/
+}
+
+.three-images-block4 {
+    width: 454px;
+    height: 467px;
+}
+
+.reference {
+    position: initial;
+    margin-top: 89px;
+    display: inline-block;
+    width: 1333px;
+
+}
+
+.image2 {
+    margin-left: -16px;
+}
+
+.image3 {
+    margin-left: -21px;
+}
+
+footer {
+    position: absolute;
+    background-color: rgb(61, 43, 31);
+    height: 300px;
+    width: 100%;
+    margin-top: -4px;
+
+}
+
+.text-footer {
+    font-size: 23px;
+    color: white;
+    margin-left: -611px;
+    margin-top: 55px;
+    text-align: center;
+}
+
+.address {
+    font-size: 15px;
+    color: white;
+    margin-left: -611px;
+    margin-top: 28px;
+    text-align: center;
+}
+
+.form {
+    position: relative;
+    margin-left: 800px;
+    margin-top: -166px;
+}
+
+.dados {
+    background-color: #A0522D;
+    height: 21px;
+    width: 330px;
+}
+
+.dados-mensagem {
+    background-color: #A0522D;
+    height: 70px;
+    width: 330px;
+}
+
+.botao {
+    margin-left: 268px;
+}
+
+.copyright-footer {
+     position: absolute;
+    background-color: rgb(61, 43, 31);
+    height: 53px;
+    width: 100%;
+    margin-top: 16px;
+}
+
+.copyright-footer-text {
+    color: #A0522D;
+    text-align: center;
+}
