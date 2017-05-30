@@ -1,3 +1,16 @@
+
+.main-image {
+    width: 100%;
+    position: fixed;
+}
+
+.menu {
+    position: fixed;
+    width: 101%;
+    top: -16px;
+    z-index: 10;
+}
+
 nav ul {
     text-align: center;
     background-color: rgb(61, 43, 31);
@@ -18,19 +31,15 @@ li:hover {
     transition: 2s;
 }
 
+
 div {
     position: absolute;
 }
 
-.background-all-page {
-    width: 1333px;
-    margin-top: -16px;
-    position: absolute;
-}
 
 .title {
     position: absolute;
-    margin-top: 80px;
+    margin-top: 80px; 
     font-size: 50px;
     margin-left: 500px;
     text-align: center;
@@ -38,7 +47,7 @@ div {
 }
 
 .backgroud-block1 {
-    width: 1333px;   
+    width: 278%;   
     height: 400px;
     position: absolute;
     margin-top: 545px;
@@ -64,10 +73,13 @@ div {
 }
 
 .second-block {
+    margin-top: 945px;
     text-align: center;
+    width: 100%;
+    background-color: white;
 }
 .title-second-block {
-    margin-top: 1040px;
+    margin-top: 91px;
     font-size: 30px;
     margin-left: 160px;
 }
@@ -88,7 +100,7 @@ div {
 }
 
 .backgroud-block3 {
-    width: 1335px;   
+    width: 109%;   
     height: 600px;
     position: absolute;
     margin-top: 1493px;
@@ -149,7 +161,7 @@ footer {
     position: absolute;
     background-color: rgb(61, 43, 31);
     height: 300px;
-    width: 100%;
+    width: 101%;
     margin-top: -4px;
 
 }
@@ -177,13 +189,13 @@ footer {
 }
 
 .dados {
-    background-color: #A0522D;
+    background-color: burlywood;
     height: 21px;
     width: 330px;
 }
 
 .dados-mensagem {
-    background-color: #A0522D;
+    background-color: burlywood;
     height: 70px;
     width: 330px;
 }
@@ -201,6 +213,6 @@ footer {
 }
 
 .copyright-footer-text {
-    color: #A0522D;
+    color: burlywood;
     text-align: center;
 }
